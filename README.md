@@ -1,0 +1,2 @@
+# spotiTeam
+spotify sharing resource
